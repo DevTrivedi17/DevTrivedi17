@@ -14,14 +14,14 @@ Tier 1 SOC Analyst roles, open to GRC-adjacent positions. Based in India.
 ## 🛠️ Projects
 | Project | What it shows |
 |---|---|
-| [SOC Automation Lab](https://github.com/DevTrivedi17/[repo-name]) | [e.g. Shuffle SOAR + SIEM alert enrichment and response] |
+| [SOC Automation Lab](https://github.com/DevTrivedi17/[repo-name]) | SOAR + SIEM alert enrichment and response |
 | [Detection Lab](https://github.com/DevTrivedi17/[repo-name]) | Sysmon telemetry into Splunk with custom detection rules mapped to MITRE ATT&CK |
 
 ## 🧰 Tools
 - **SIEM & Endpoint:** Splunk, Sysmon, [Wazuh / Windows Event Logs]
-- **Automation:** Shuffle SOAR, [Python]
-- **Network:** [Wireshark, Nmap, pfSense]
-- **Cloud:** [only list it if you've used it]
+- **Automation:** Shuffle SOAR, 
+- **Network:** Wireshark, Nmap, pfSense
+- **Cloud:** Azure
 
 ## 📜 Certifications
 
@@ -41,6 +41,7 @@ Tier 1 SOC Analyst roles, open to GRC-adjacent positions. Based in India.
 
 [View all badges on Credly](https://www.credly.com/users/dev-trivedi.b9d8efeb)
 
+[View all badges on Linkdin](https://www.linkedin.com/in/dev-trivedi-cyber/)
 <!--
 **DevTrivedi17/DevTrivedi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
